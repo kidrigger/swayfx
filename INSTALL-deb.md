@@ -30,6 +30,8 @@ swayfx and wlroots should now be located in the `build` directory.
 ___
 ### Compiling
 You MUST compile wlroots first.
+Note: [Install Dependencies](https://github.com/swaywm/wlroots?tab=readme-ov-file#building)
+
 ```bash
 cd wlroots-0.16.2
 meson setup build/
